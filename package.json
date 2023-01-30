@@ -6,7 +6,7 @@
     "./packages/*",
     "./examples/*"
   ],
-  "version": "0.0.1",
+  "version": "0.3.0",
   "scripts": {
     "postinstall": "ts-patch install",
     "prepare": "ts-patch install -s",
